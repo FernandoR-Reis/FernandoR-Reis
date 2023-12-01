@@ -1,4 +1,11 @@
-### Opaa me chamo Fernando, Bem vindo ao meu Repositório 👋
+### Hi my name is Fernando, Welcome to my repository 👋
+- 💻 i've been Front-end for almost a year.
+- 🌱 I’m currently learning React.js,<br>
+  next language will be TypeScript
+
+##
+### Languages 📚
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -9,12 +16,7 @@
 
 ##
 
-- 💻 Sou dev Front-end a quase 1 ano
-- 🌱 I’m currently learning React.js<br>
-e o proximo passo é TypeScript
-
-##
-
+### Contact 📫
 <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/fernando-reis-a085521b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/reis.019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
