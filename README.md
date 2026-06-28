@@ -1,7 +1,25 @@
-### Hi my name is Fernando, Welcome to my repository 👋
-- 💻 i've been Front-end for almost a year.
-- 🌱 I’m currently learning React.js,<br>
-  next language will be TypeScript
+# Hi, I'm Fernando Reis 👋
+
+Technology, business and process improvement enthusiast.
+
+I enjoy creating solutions that simplify operations, improve decision-making and generate real business value.
+
+### What I'm working on
+
+- 🚀 SaaS for bars & restaurants
+- 💻 Full Stack Development
+- 📊 Dashboards & Data Analysis
+- ⚙️ Business Process Automation
+- 📈 Product & Project Management
+
+### Currently learning
+
+- React
+- TypeScript
+- Node.js
+- Software Architecture
+
+> "Technology only makes sense when it solves real problems."
 
 ##
 ### Languages 📚
